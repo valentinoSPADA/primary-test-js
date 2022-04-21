@@ -6,6 +6,10 @@ Para utilizar el proyecto, es necesario instalar las dependencias. Lo cual deber
 
 <h3>Aclaraciones importantes</h3>
 
+Todo el codigo esta en la carpeta 'src'
+
+'App.js' es el archivo que se muestra en el front.
+
 Luego el archivo 'CargarInfo.js' muestra la manera de extraer la informacion de la Api. Este archivo es para demostrar como se haria de una forma totalmente vanilla. Pero para el front, este archivo no fue utilizado ya que a la Api que se le apunta, es ficticia. Lo cual, para mostrar un ejemplo de un dashboard basico, se "hardcodeo" la informacion en vez de realizar los respectivos pedidos a la Api.
 
 
